@@ -22,7 +22,7 @@ To use Canteen, follow these steps:
 
 ## Contributing
 
-We welcome and appreciate any contributions to Canteen, whether it is reporting issues, suggesting features, or submitting pull requests. Please read our [contributing guidelines]([https://github.com/](https://github.com/ariyoaresa/canteen/blob/main/CONTRIBUTING.md) before making any contributions.
+We welcome and appreciate any contributions to Canteen, whether it is reporting issues, suggesting features, or submitting pull requests. Please read our [contributing guidelines](https://github.com/ariyoaresa/canteen/blob/main/CONTRIBUTING.md) before making any contributions.
 
 ## License
 
