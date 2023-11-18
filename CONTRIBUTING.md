@@ -13,7 +13,7 @@ with a fix.
 
 ## Submitting a Pull Request
 
-1. Make sure that the contribution you want to make is explained or detailed in a GitHub issue! Find an [existing issue](https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/issues) or [open a new one](https://github.com/ariyoaresa/canteen/issues/new)
+1. Make sure that the contribution you want to make is explained or detailed in a GitHub issue! Find an [existing issue](https://github.com/ariyoaresa/canteen/issues) or [open a new one](https://github.com/ariyoaresa/canteen/issues/new)
 2. Fork this repository
 3. Create a new branch
 4. Make the changes on your branch.
