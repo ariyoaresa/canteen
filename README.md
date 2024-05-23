@@ -2,14 +2,14 @@
 
 Canteen is a web application for managing canteen orders and payments. It is built using HTML and CSS
 
-## Installation
+## Pull Request Process
 
-To install and run Canteen on your local machine, follow these steps:
+1. Fork the repository and create a new branch for your changes.
+2. Make your changes and commit them with a clear and descriptive commit message.
+3. Open a pull request and describe the changes you made.
+4. Wait for a maintainer to review your pull request and provide feedback.
 
-1. Clone the repository to your local machine using `git clone https://github.com/ariyoaresa/canteen.git`.
-2. Install the dependencies using `npm install`.
-3. Start the development server using `npm start`.
-4. Open your web browser and go to `http://localhost:3000`.
+We will do our best to review pull requests in a timely manner. Thank you for your patience!
 
 ## Usage
 
